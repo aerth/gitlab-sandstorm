@@ -1,5 +1,5 @@
-gitlab_repo = https://github.com/dwrensha/gitlabhq.git
-gitlab_repo_branch = sandstorm-app
+gitlab_repo = https://github.com/aerth/sandstorm-gitlabhq.git
+gitlab_repo_branch = sandstorm-dev
 gitlab_shell_repo = https://github.com/dwrensha/gitlab-shell.git
 gitlab_shell_repo_branch = sandstorm-app
 
